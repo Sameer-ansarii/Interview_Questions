@@ -1,2 +1,2 @@
 # Interview-Questions
-In this Repository I upload all the interview questions of different topics.  
+In this Repository I upload interview questions of various topics.  
